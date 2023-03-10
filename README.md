@@ -6,3 +6,4 @@ After refactoring the code and applying changes the webpage worked as instructed
 
 ![Alt text](/assets/images/Webpage1.png?raw=true "Webpage screenshot")
 https://qmcginnis.github.io/Refactoring-challenge-1-UofM/
+MIT License
